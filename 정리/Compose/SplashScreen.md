@@ -6,9 +6,7 @@
 1. app 수준 gradle에 의존성 추가
   ```kotlin
   dependencies {
-    implementation("androidx.core:core-splashscreen:1.0.0")
-    // 안드로이드 12 이상 새로 업그레이드된 splash
-    implementation("androidx.core:core-splashscreen:1.0.0-beta02")
+    implementation("androidx.core:core-splashscreen:1.2.0")
   }
   ```
 2. themes.xml에 splash 테마 추가
