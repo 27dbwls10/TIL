@@ -1,5 +1,6 @@
 [splash android 12](https://developer.android.com/develop/ui/views/launch/splash-screen/migrate?hl=ko)
 [splash 화면 커스텀](https://developer.android.com/develop/ui/views/launch/splash-screen?hl=ko&_gl=1*12rn69s*_up*MQ..*_ga*MTAzMjE3ODA2Mi4xNzc2NTc4OTA1*_ga_6HH9YJMN9M*czE3NzY1Nzg5MDUkbzEkZzAkdDE3NzY1Nzg5MDUkajYwJGwwJGg1NTU5MDA5NDY.#customize-animation)
+[splash 따라해보기](https://velog.io/@dmp100/Android-Studio-Splash)
 
 !Process Init, Activity.onCreate에서만 실행, Activity.onStart에서는 실행 X
 
