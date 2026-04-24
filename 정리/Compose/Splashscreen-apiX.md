@@ -13,4 +13,21 @@
 
 > [xml](https://velog.io/@mraz3068/How-to-make-Custom-Splash-Screen-with-Splash-Screen-API)
 
+1. 원하는 스플래시 화면이 나오기 전에 짧게 빈 화면(하얀색)을 화면에 출력
+    따로 설정하지 않으면 기본 아이콘이 정가운데에 표시되는 화면을 스플래시 화면으로 출력되기 때문
+   ic_dummy.xml(생성 후 themes.xml의 아이콘으로 지정, drawable)
+   |:---:|
+   ```xml
+   <?xml version="1.0" encoding="utf-8"?>
+   <vector xmlns:android="http://schemas.android.com/apk/res/android"
+      android:width="108dp"
+      android:height="108dp"
+      android:viewportHeight="192"
+      android:viewportWidth="192">
 
+      <path
+          android:fillColor="@color/white"
+          android:pathData="M0,0h1200v108h-108z" />
+
+   </vector>    
+   ```
