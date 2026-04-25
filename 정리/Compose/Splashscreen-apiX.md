@@ -11,7 +11,7 @@
 
 ### &rarr; 그래서 기존에 나오는 스플래시 화면(빈화면으로)을 아주 짧게 설정한 다음 원하는 화면을 kotlin으로 구현하여 스플래시 화면으로 사용하는 방법을 선택
 
-> [xml](https://velog.io/@mraz3068/How-to-make-Custom-Splash-Screen-with-Splash-Screen-API)
+> [xml](https://velog.io/@mraz3068/How-to-make-Custom-Splash-Screen-with-Splash-Screen-API)  
 > [도형 그리기](https://developer.android.com/develop/ui/compose/graphics/draw/shapes?hl=ko)
 
 1. 원하는 스플래시 화면이 나오기 전에 짧게 빈 화면(하얀색)을 화면에 출력
